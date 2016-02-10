@@ -1,0 +1,31 @@
+{
+  "name": "telegram-any",
+  "version": "0.0.0",
+  "description": "Anonymous telegram pairings",
+  "author": [
+    "Te Standby <testandby@gmail.com>",
+    "Linus Weipert <linusweipert@gmail.com>"
+  ],
+  "main": "lib/foo.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vwr/any"
+  },
+  "keywords": [
+    "telegram",
+    "anonymous",
+    "message",
+    "any",
+    "chat",
+    "omegle",
+    "chatroulette"
+  ],
+  "dependencies": {
+    "node-telegram-bot-api": "^1" 
+  },
+  "devDependencies": {
+  },
+  "preferGlobal": true,
+  "private": true,
+  "license": "LGPLv3"
+}
