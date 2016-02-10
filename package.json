@@ -9,7 +9,7 @@
   "main": "lib/foo.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vwr/any"
+    "url": "https://github.com/fevuri/mattis"
   },
   "keywords": [
     "telegram",
@@ -18,10 +18,11 @@
     "any",
     "chat",
     "omegle",
-    "chatroulette"
-  ],
+    "chatroulette",
+    "fevuri"
+    ],
   "dependencies": {
-    "node-telegram-bot-api": "^1" 
+    "node-telegram-bot-api": "^1"
   },
   "devDependencies": {
   },
