@@ -22,7 +22,7 @@
     "fevuri"
   ],
   "scripts": {
-    "build": "babel src -d lib"
+    "build": "./node_modules/.bin/babel src -d lib"
   },
   "dependencies": {
     "babel-plugin-syntax-flow": "^6.5.0",
@@ -31,7 +31,7 @@
     "node-telegram-bot-api": "^0.20.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.0.0"
+    "babel-cli": "^6.5.1"
   },
   "preferGlobal": true,
   "private": true,

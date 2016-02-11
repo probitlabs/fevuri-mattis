@@ -1,4 +1,3 @@
 {
-  "presets": ["es2015"],
-  "plugins": ["undeclared-variables-check"]
+  "presets": ["es2015"]
 }
