@@ -20,12 +20,14 @@
     "omegle",
     "chatroulette",
     "fevuri"
-    ],
+  ],
   "dependencies": {
+    "babel-plugin-syntax-flow": "^6.5.0",
+    "babel-plugin-undeclared-variables-check": "^6.5.0",
+    "babel-preset-es2015": "^6.5.0",
     "node-telegram-bot-api": "^0.20.1"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "preferGlobal": true,
   "private": true,
   "license": "LGPLv3"
