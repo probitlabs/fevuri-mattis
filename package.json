@@ -15,10 +15,7 @@
     "telegram",
     "anonymous",
     "message",
-    "any",
     "chat",
-    "omegle",
-    "chatroulette",
     "fevuri"
   ],
   "scripts": {
