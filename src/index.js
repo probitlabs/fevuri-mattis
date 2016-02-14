@@ -1,4 +1,4 @@
-const Bot = require("node-telegram-bot-api") // TODO hack
+import Bot from "node-telegram-bot-api"
 import * as fs from "fs"
 import * as ht from "http"
 
