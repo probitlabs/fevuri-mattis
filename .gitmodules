@@ -1,0 +1,3 @@
+[submodule "tgbot-ignore"]
+	path = tgbot-ignore
+	url = https://github.com/fevuri/tgbot-ignore.git
